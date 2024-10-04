@@ -24,4 +24,27 @@ Automated brain tumor recognition is crucial for swift diagnosis and treatment i
 | **weighted avg** | 0.993022  | 0.992974  | 0.992971  | 2135    |
 
 ## XAI Visualization
+<p align="center">
+  <img src="XAI Viz/Glioma.jpg" alt="Glioma.jpg" width="400"/>
+  <br>
+  <b>Glioma</b>
+</p>
+
+<p align="center">
+  <img src="XAI Viz/Meningioma.jpg" alt="Meningioma" width="400"/>
+  <br>
+  <b>Meningioma</b>
+</p>
+
+<p align="center">
+  <img src="XAI Viz/No Tumor.jpg" alt="No Tumor" width="400"/>
+  <br>
+  <b>No Tumor</b>
+</p>
+
+<p align="center">
+  <img src="XAI Viz/Pituitary.jpg" alt="Pituitary" width="400"/>
+  <br>
+  <b>Pituitary</b>
+</p>
 
