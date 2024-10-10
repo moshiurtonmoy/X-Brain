@@ -1,8 +1,14 @@
-# X-Brain
-Explainable Automated Recognition of Brain Tumors using Robust Deep Attention CNN
+# X-Brain: Explainable Automated Recognition of Brain Tumors using Robust Deep Attention CNN
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <a target="_blank" href="https://colab.research.google.com/github/moshiurtonmoy/X-Brain/blob/master/X_Brain.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+<hr/>
 
-## Abstract
 Automated brain tumor recognition is crucial for swift diagnosis and treatment in healthcare, enhancing patient survival rates but manual recognition of tumor types is time-consuming and resource intensive. Over the past few years, researchers have proposed various Deep Learning (DL) methods to automate the recognition process over the past years. However, these approaches often lack convincing accuracy and rely on datasets consisting of limited samples, raising concerns regarding real-world efficacy and reliability. Furthermore, the decisions made by black-box AI models in healthcare, where lives are at stake, require proper decision explainability. To address these issues, we propose a robust and explainable deep CNN-based method for effective recognition of brain tumor types, attaining state-of-the-art accuracies of 99.81%, 99.55%, and 99.30% on the training, validation, and test sets, respectively, surpassing both the previous works and baseline models. Moreover, we employed three Explainable AI techniques: Grad-CAM, Grad-CAM++, and Score-CAM for explainability analysis, contributing towards the development of trustworthy and reliable automation of healthcare diagnosis.
+
+<!--
+<ul>
+  <li>The dataset has been published in <b><i>Biomedical Signal Processing and Control</i></b> and can be accessed from <a target='_blank' href="https://ieeexplore.ieee.org/abstract/document/10680521"> here</a></li>
+</ul>
+-->
 
 ## Result Summary
 
@@ -52,3 +58,18 @@ Automated brain tumor recognition is crucial for swift diagnosis and treatment i
   </tr>
 </table>
 
+<!--
+## Citation
+```
+@ARTICLE{10680521,
+  author={Tonmoy, Moshiur Rahman and Adnan, Akhtaruzzaman and Saha, Aloke Kumar and Mridha, M. F. and Dey, Nilanjan},
+  journal={IEEE Data Descriptions}, 
+  title={Descriptor: Multilingual Visual Font Recognition Dataset (MVFR)}, 
+  year={2024},
+  volume={1},
+  number={},
+  pages={1-6},
+  doi={10.1109/IEEEDATA.2024.3460768}}
+```
+<hr/>
+-->
