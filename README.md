@@ -58,18 +58,20 @@ Automated brain tumor recognition is crucial for swift diagnosis and treatment i
   </tr>
 </table>
 
-<!--
+
 ## Citation
 ```
-@ARTICLE{10680521,
-  author={Tonmoy, Moshiur Rahman and Adnan, Akhtaruzzaman and Saha, Aloke Kumar and Mridha, M. F. and Dey, Nilanjan},
-  journal={IEEE Data Descriptions}, 
-  title={Descriptor: Multilingual Visual Font Recognition Dataset (MVFR)}, 
-  year={2024},
-  volume={1},
-  number={},
-  pages={1-6},
-  doi={10.1109/IEEEDATA.2024.3460768}}
+@article{TONMOY2025106988,
+title = {X-Brain: Explainable recognition of brain tumors using robust deep attention CNN},
+journal = {Biomedical Signal Processing and Control},
+volume = {100},
+pages = {106988},
+year = {2025},
+issn = {1746-8094},
+doi = {https://doi.org/10.1016/j.bspc.2024.106988},
+url = {https://www.sciencedirect.com/science/article/pii/S1746809424010462},
+author = {Moshiur Rahman Tonmoy and Md. Atik Shams and Md. Akhtaruzzaman Adnan and M.F. Mridha and Mejdl Safran and Sultan Alfarhood and Dunren Che},
+keywords = {Brain tumor, Medical imaging, XAI, Attention mechanism, Computer vision}
+}
 ```
 <hr/>
--->
